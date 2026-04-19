@@ -86,4 +86,4 @@ Baskın elinizle havada çizim yapın ve diğer elinizle sezgisel hareketler (Ta
 🐙 GitHub: [Flaxe-max](https://github.com/Flaxe-max)
 
 ---
-*Built with passion for AI and Spatial Computing.*
+*We are Building Digital Worlds*
